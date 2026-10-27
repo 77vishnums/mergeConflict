@@ -4,5 +4,6 @@ class f2
     {
         System.out.println("Hello World from f2");
         System.out.println("Weeeeeeeeeeeeee");
+        System.out.println("Weeeeeeeeeeeeee2222222");
     }
 }
